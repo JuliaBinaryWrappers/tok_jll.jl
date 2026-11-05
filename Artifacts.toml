@@ -1,0 +1,60 @@
+[[tok]]
+arch = "aarch64"
+git-tree-sha1 = "905d2a4aa43b5646ed43fcae7957c5fdacb79a8e"
+os = "macos"
+
+    [[tok.download]]
+    sha256 = "7fe60c45a40e2642edb1c43b734cca59fdbb4434d943d86feffda241f6db278d"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.aarch64-apple-darwin.tar.gz"
+[[tok]]
+arch = "aarch64"
+git-tree-sha1 = "19020a419381c9b8fbc26342f3ea0d99acd8d9c7"
+libc = "glibc"
+os = "linux"
+
+    [[tok.download]]
+    sha256 = "7270e2439a41b781c8a4e90af1aee3f37d5b1a0f2ce83708b783667c9bbd88e6"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.aarch64-linux-gnu.tar.gz"
+[[tok]]
+arch = "aarch64"
+git-tree-sha1 = "2b08119168c5fa73535ccd99beb2ec72e74eb671"
+libc = "musl"
+os = "linux"
+
+    [[tok.download]]
+    sha256 = "616be50481ea2d98619304b54ad8210400d4e6e5c0d83c8dab38f22833fb949a"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.aarch64-linux-musl.tar.gz"
+[[tok]]
+arch = "x86_64"
+git-tree-sha1 = "9c62f4f5af248a01853fd46638d5d03b87f13d2a"
+os = "macos"
+
+    [[tok.download]]
+    sha256 = "d4f5166fe4a2a4fa326aac7c640cc9a68cec564364ae88dea18e15102ea26e44"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.x86_64-apple-darwin.tar.gz"
+[[tok]]
+arch = "x86_64"
+git-tree-sha1 = "16815f375086ba26cd322498cff7a9dc37b8bdc2"
+libc = "glibc"
+os = "linux"
+
+    [[tok.download]]
+    sha256 = "f299f0d7a61b8a1dad0c0e0413573ae91af5b870048e9aef371461de42859a73"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.x86_64-linux-gnu.tar.gz"
+[[tok]]
+arch = "x86_64"
+git-tree-sha1 = "2c02fb28f3c1ca4d684619f4e5acff27c289f6bb"
+libc = "musl"
+os = "linux"
+
+    [[tok.download]]
+    sha256 = "765458126dfd3f6cf67eecacdacec5242cf77a7cdd5aaf614f5c8e9795b1fb74"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.x86_64-linux-musl.tar.gz"
+[[tok]]
+arch = "x86_64"
+git-tree-sha1 = "9445ac45a855fb9a32a7392bfb9089c4bc0bc519"
+os = "windows"
+
+    [[tok.download]]
+    sha256 = "2e3dc70b18df9359c15977f719d55ac04831bbab890586803003bb6c57d8765b"
+    url = "https://github.com/JuliaBinaryWrappers/tok_jll.jl/releases/download/tok-v1.0.3+0/tok.v1.0.3.x86_64-w64-mingw32.tar.gz"
